@@ -1,0 +1,11 @@
+\addvspace {1em}
+\addvspace {1em}
+\addvspace {1em}
+\contentsline {table}{\numberline {3.1}{\ignorespaces Example of knowledge base refinement for BIRD~\cite {li2023bird}.}}{14}{table.3.1}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Optimized parameters using grid search.}}{17}{table.3.2}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Accuracy (\%) of various models on the BIRD dataset. Top performers in each category are highlighted.}}{18}{table.3.3}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces Example of SQL refinement driven by entailment feedback.}}{18}{table.3.4}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces Comparison with state-of-the-art methods on the BIRD dev set (execution accuracy \%).}}{19}{table.3.5}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces Ablation results showing the contribution of each module.}}{19}{table.3.6}%
+\addvspace {1em}
+\addvspace {1em}

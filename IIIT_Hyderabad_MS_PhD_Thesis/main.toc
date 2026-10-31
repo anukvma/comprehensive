@@ -1,0 +1,61 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Objective and scope}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Contributions}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Structure of the report}{4}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Literature Survey}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Schema Understanding}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Knowledge-base and metadata construction}{6}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Schema linking and retrieval}{6}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}From encoder--decoder models to LLM pipelines}{6}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Self-reflection for structured generation}{7}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}From benchmarks to the enterprise}{7}{subsection.2.1.5}%
+\contentsline {section}{\numberline {2.2}Data Understanding}{7}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Representing table content}{8}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Graph representations}{8}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Table Question Answering}{9}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Adjacent tasks}{9}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Open challenges}{9}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}From benchmarks to the enterprise}{10}{subsection.2.2.6}%
+\contentsline {chapter}{\numberline {3}Current Progress: Reflect-SQL}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Framework Overview}{12}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Knowledge Base Construction and Refinement}{12}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Construction}{13}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Iterative refinement}{13}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Iterative RAG Retrieval}{14}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Hierarchical table and column retrieval}{14}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Relevance and completeness scoring}{15}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Query refinement}{15}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}SQL Query Generation}{15}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Syntactic validation and correction}{16}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Semantic validation}{16}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Entailment}{16}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Entailment scoring}{16}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Entailment decision}{16}{subsection.3.5.2}%
+\contentsline {section}{\numberline {3.6}Mitigating Bias in LLM-based Evaluation}{16}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Model Parameter Optimization}{17}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Evaluation}{17}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Experimental setup}{17}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Results}{17}{subsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.8.3}Human evaluation}{18}{subsection.3.8.3}%
+\contentsline {subsection}{\numberline {3.8.4}Comparison with state of the art}{18}{subsection.3.8.4}%
+\contentsline {section}{\numberline {3.9}Ablation Study}{19}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Summary}{19}{section.3.10}%
+\contentsline {chapter}{\numberline {4}Future Directions}{20}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Future Directions in Schema Understanding}{20}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}From static to continually evolving knowledge bases}{20}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Retrieval at industry scale}{21}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Cross-database and multi-table join reasoning}{21}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Reliable, reference-free verification}{21}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}The cost of reflection}{22}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}Beyond SQL}{22}{subsection.4.1.6}%
+\contentsline {section}{\numberline {4.2}Setting a Direction for Data Understanding}{22}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Representing large-scale tabular data as a graph}{23}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Evidence retrieval as addressing over the graph}{23}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Robustness on complex table structures}{24}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Reasoning beyond retrieval and arithmetic}{24}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Generalization across representations}{24}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}A large-scale benchmark for Table Question Answering}{24}{subsection.4.2.6}%
+\contentsline {section}{\numberline {4.3}Summary}{25}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Conclusion}{26}{chapter.5}%
+{\addvspace {3.0ex plus 1pt}}
+\contentsline {chapter}{{Bibliography}}{28}{chapter*.6}%
